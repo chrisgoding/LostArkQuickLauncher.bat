@@ -1,7 +1,7 @@
 ::ITISWEDNESDAYMYDUDES.BAT
 :: 
 :: Use this to put the folders back where they belong on patch day.
-
+@echo off
 setlocal enabledelayedexpansion
 pushd "%~dp0"
 
