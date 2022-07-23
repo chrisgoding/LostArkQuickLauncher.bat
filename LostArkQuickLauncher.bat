@@ -19,7 +19,7 @@
 :: -Chriscasting, Regulus
 :: f2p btw
 
-
+@echo off
 setlocal enabledelayedexpansion
 pushd "%~dp0"
 ::This tells the batch file to look for the text files in the same folder the batch file is in. "%~dp0" is a variable for the current directory.
